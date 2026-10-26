@@ -1,0 +1,13 @@
+{
+  "name": "scoiatael",
+  "version": "1.1.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/local-notifications": "^7.0.0",
+    "@jofr/capacitor-media-session": "latest",
+    "esbuild": "^0.25.0"
+  }
+}
